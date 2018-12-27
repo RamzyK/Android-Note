@@ -1,2 +1,2 @@
-# AndroidMVVM
+# Android Notes
 
